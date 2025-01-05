@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "974990610715",
+    "firebase_url": "https://medical-app-f9f81-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "medical-app-f9f81",
+    "storage_bucket": "medical-app-f9f81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974990610715:android:3d81ad879dc5c5a629c3be",
+        "android_client_info": {
+          "package_name": "com.example.medicine_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCDhapotGRVxwiYqJ4k2fI227WnUsEKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974990610715:android:c06a3c235c1b303129c3be",
+        "android_client_info": {
+          "package_name": "com.medicalapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCDhapotGRVxwiYqJ4k2fI227WnUsEKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
